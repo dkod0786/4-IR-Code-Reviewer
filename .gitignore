@@ -1,0 +1,4 @@
+node_modules
+service_account.json
+ai-codeguard.2024-06-21.private-key.pem
+.env
